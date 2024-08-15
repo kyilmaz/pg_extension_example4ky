@@ -1,0 +1,9 @@
+# py_extension_example4ky.control
+# Comment line to provide additional information about the extension
+comment = 'Extension Create Tutorial'
+
+# Specifies the default version of the extension
+default_version = '1.0.0'
+
+# Indicates whether the extension is relocatable, allowing it to be moved to a different location (true by default)
+relocatable = true
